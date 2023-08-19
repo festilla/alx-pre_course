@@ -1,1 +1,1 @@
-Root README content
+Coding is fun
